@@ -1,0 +1,16 @@
+{   
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "fstream": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "charconv": "cpp",
+        "ratio": "cpp",
+        "xloctime": "cpp",
+        "string": "cpp",
+        "ostream": "cpp"
+    }
+} 
+
+
