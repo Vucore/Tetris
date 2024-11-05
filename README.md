@@ -1,4 +1,4 @@
-Make by C++, OOP SDL library
+Make by C/C++, OOP SDL library
 
 ![image](https://github.com/user-attachments/assets/fbbf9ce6-0bb2-43ee-bef5-d6f104b81889)
 ![image](https://github.com/user-attachments/assets/8bfe6c28-116d-461d-a4b0-8bb9f1cae31b)
